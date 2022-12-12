@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/QuantumGunners.csproj": {}
+  },
+  "projects": {
+    "/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/QuantumGunners.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/QuantumGunners.csproj",
+        "projectName": "QuantumGunners",
+        "projectPath": "/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/QuantumGunners.csproj",
+        "packagesPath": "/home/weaversong/.nuget/packages/",
+        "outputPath": "/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/home/weaversong/.local/share/godot/mono/GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/NuGet.Config",
+          "/home/weaversong/.nuget/NuGet/NuGet.Config",
+          "/home/weaversong/.nuget/NuGet/config/Godot.Offline.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.*, )"
+            },
+            "BepInEx.PluginInfoProps": {
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2019.4.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

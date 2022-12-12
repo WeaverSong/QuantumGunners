@@ -1,0 +1,13 @@
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/Debug/netstandard2.0/QuantumGunners.csproj.AssemblyReference.cache
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/Debug/netstandard2.0/PluginInfo.cs
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/Debug/netstandard2.0/QuantumGunners.GeneratedMSBuildEditorConfig.editorconfig
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/Debug/netstandard2.0/QuantumGunners.AssemblyInfoInputs.cache
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/Debug/netstandard2.0/QuantumGunners.AssemblyInfo.cs
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/Debug/netstandard2.0/QuantumGunners.csproj.CoreCompileInputs.cache
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/bin/Debug/netstandard2.0/QuantumGunners.deps.json
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/bin/Debug/netstandard2.0/QuantumGunners.dll
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/bin/Debug/netstandard2.0/QuantumGunners.pdb
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/bin/Debug/netstandard2.0/Assembly-CSharp.dll
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/Debug/netstandard2.0/QuantumGunners.csproj.CopyComplete
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/Debug/netstandard2.0/QuantumGunners.dll
+/media/weaversong/Elements/Projects/Mods/Star Valor/QuantumGunners/obj/Debug/netstandard2.0/QuantumGunners.pdb
